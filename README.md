@@ -6,3 +6,4 @@ AWS Fargate application with AWS CDK L2 construct
 
 - AWS CLI and AWS CDK
 - node.js
+- Docker
