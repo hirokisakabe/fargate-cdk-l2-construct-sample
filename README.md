@@ -1,6 +1,6 @@
-# fargate-cdk-l2-construct
+# fargate-cdk-l2-construct-sample
 
-AWS Fargate application with AWS CDK L2 construct
+AWS Fargate application with AWS CDK L2 construct example
 
 ## Requirements
 

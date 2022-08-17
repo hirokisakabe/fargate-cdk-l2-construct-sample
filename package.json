@@ -1,8 +1,8 @@
 {
-  "name": "fargate-cdk-l2-construct",
+  "name": "fargate-cdk-l2-construct-sample",
   "version": "0.1.0",
   "bin": {
-    "fargate-cdk-l2-construct": "bin/fargate-cdk-l2-construct.js"
+    "fargate-cdk-l2-construct-sample": "bin/fargate-cdk-l2-construct-sample.js"
   },
   "scripts": {
     "build": "tsc",

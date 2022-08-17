@@ -1,10 +1,10 @@
 #!/usr/bin/env node
 import 'source-map-support/register';
 import * as cdk from 'aws-cdk-lib';
-import { FargateCdkL2ConstructStack } from '../lib/fargate-cdk-l2-construct-stack';
+import { FargateCdkL2ConstructSampleStack } from '../lib/fargate-cdk-l2-construct-sample-stack';
 
 const app = new cdk.App();
-new FargateCdkL2ConstructStack(app, 'FargateCdkL2ConstructStack', {
+new FargateCdkL2ConstructSampleStack(app, 'FargateCdkL2ConstructStack', {
   /* If you don't specify 'env', this stack will be environment-agnostic.
    * Account/Region-dependent features and context lookups will not work,
    * but a single synthesized template can be deployed anywhere. */
